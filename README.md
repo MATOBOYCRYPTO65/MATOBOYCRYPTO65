@@ -1,7 +1,7 @@
 
 https://snapshot.org/#/profile/0xB5c1baF2E532Bb749a6b2034860178A3558b6e58
 https://paragraph.com/@0xB5c1baF2E532Bb749a6b2034860178A3558b6e58
-I am an verified independent researcher and participant in ArbitrumDAO/SafeDAO governance.
+I am a verified independent researcher and participant in ArbitrumDAO/SafeDAO governance.
 My focus is on long-term sustainability, security, and transparent decision-making that strengthens Ethereum’s base layer and the Arbitrum ecosystem. 
 I prioritize proposals that improve technical foundations, user experience, and responsible treasury management while avoiding single points of failure.
 I maintain open communication regarding my voting positions and welcome feedback from the community.
